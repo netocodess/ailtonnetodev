@@ -10,11 +10,9 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailtonnetodev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ailtonnetodev&theme=dracula&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtonnetodev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
-<div align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtonnetodev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ailtonnetodev&icon=0&color=0)](https://visitcount.itsvg.in)
